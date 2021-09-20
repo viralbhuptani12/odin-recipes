@@ -1,0 +1,24 @@
+h1{
+    text-align:center;
+    background-color:brown;
+    font-size:40px;
+    color:white;
+}
+
+.main-image{
+    display: block;
+    margin: 0 auto;
+}
+
+h3{
+    text-align:center;
+    font-size:25px;
+}
+
+h2{
+    background-color:burlywood;
+}
+
+.recipes{
+    text-align:left;
+}
